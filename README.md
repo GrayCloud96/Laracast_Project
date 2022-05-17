@@ -12,6 +12,6 @@ To launch the application, you need to download the folder and put it in htdocs 
 
 Then, you are good to go with:
 
-- php artisan server
+- php artisan serve
 
 and you go to 127.0.0.1:8000 in your browser, enjoy.
