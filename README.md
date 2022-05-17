@@ -8,10 +8,10 @@ from scratch</a> and see by yourself. Good luck and have fun.
 
 To launch the application, you need to download the folder and put it in htdocs of XAMPP (or any server that has apache) and start the migration first with this command in the command line below (if the migration does not succeed, go to .env file and check the database configuration on it):
 
-- [php artisan migrate]
+- php artisan migrate
 
 Then, you are good to go with:
 
-- [php artisan server]
+- php artisan server
 
 and you go to 127.0.0.1:8000 in your browser, enjoy.
